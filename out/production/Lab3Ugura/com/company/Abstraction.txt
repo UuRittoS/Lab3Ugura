@@ -1,0 +1,25 @@
+
+Муми-тролль (troll)
+
+
+Creature
+	name:MoomyTroll
+	TurnHead()
+
+Light
+	ShineAt(Object)
+
+
+Ruby(diamond)
+	color
+		-Pink
+		-Dark-Red
+		-Black-Tulipan
+
+
+		The Creature Troll Turned its head
+
+        The Light of STRONG type shines at Ruby
+
+        Diamond color has been changed from: PINK To DARK_RED
+        Diamond color has been changed from: DARK_RED To BLACK_TULIPAN
